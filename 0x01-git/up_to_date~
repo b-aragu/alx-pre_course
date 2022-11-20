@@ -1,0 +1,7 @@
+packing objects: 100% (3/3), 702 bytes | 702.00 KiB/s, done.                                           
+From https://github.com/b-aragu/alx-pre_course                                                           
+   c63ba20..e4a06a8  master     -> origin/master                                                         
+Updating c63ba20..e4a06a8                                                                                
+Fast-forward                                                                                             
+ README.md | 2 +-                                                                                        
+ 1 file changed, 1 insertion(+), 1 deletion(-)  
